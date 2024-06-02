@@ -1,0 +1,1 @@
+Script to reduce monochrome science images (dark and bias calibration), then aligns and crops each image in a set of stacks for comparing across filters. Requires manual adjustment for cropping and angle alignment if the line features aren't distinct enough.
